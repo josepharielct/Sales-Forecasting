@@ -1,5 +1,3 @@
-# README
-
 # Project Title
 
 Sales Forecasting
