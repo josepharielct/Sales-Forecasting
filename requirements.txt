@@ -1,0 +1,9 @@
+numpy
+pandas
+plotly
+scikit-learn
+json
+matplotlib
+pystan==2.19.1.1
+prophet
+dash
