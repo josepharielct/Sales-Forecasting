@@ -1,7 +1,5 @@
 # IBP Sales Forecasting Documentation
 
-Note: Blm ditambahkan dokumentasi untuk metrik lain selain AOV kategorik. Akan ditambahkan ketika sudah diintegrasikan di pipeline
-
 ---
 
 # Table of Contents
